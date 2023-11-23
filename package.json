@@ -5,21 +5,21 @@
     "gendiff": "bin/gendiff.js"
   },
   "type": "module",
-  "description": "[![Actions Status](https://github.com/lagzya-dev/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/lagzya-dev/frontend-project-46/actions)",
+  "description": "[![Actions Status](https://github.com/INJ1R/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/INJ1R/frontend-project-46/actions)",
   "main": "src/index.js",
   "scripts": {
     "test": "npx jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lagzya-dev/frontend-project-46.git"
+    "url": "git+https://github.com/INJ1R/frontend-project-46.git"
   },
-  "author": "Alexey Seliverstov - LAGZYA",
+  "author": "Ivan Nezhdanov --  INJIR ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lagzya-dev/frontend-project-46/issues"
+    "url": "https://github.com/INJ1R/frontend-project-46/issues"
   },
-  "homepage": "https://github.com/lagzya-dev/frontend-project-46#readme",
+  "homepage": "https://github.com/INJ1R/frontend-project-46#readme",
   "dependencies": {
     "commander": "^10.0.0",
     "js-yaml": "^4.1.0",
